@@ -1,0 +1,12 @@
+.AzulOscuro { color: #005677;
+            background-color: #C4C4C4;}
+.Adelanto { text-indent: 80px; }
+    .Titulos {color: #005677;
+            background-color: #C4C4C4;}
+.Datos {font-style: italic;
+        font-weight:800;}
+.Final {background-color: #005677;
+        color:white;
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center      ;}

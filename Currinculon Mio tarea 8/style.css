@@ -1,0 +1,12 @@
+.Titulo {background-color: #92e3f5;
+        color: rgb(19, 30, 175)}
+.Sangria {text-indent: 65px;}
+.Subtitulo {background-color: #92e3f5;
+            color:rgb(19, 30, 175)}
+.Datos {font-weight: bold;
+        font-style: italic;}
+.Informacion {background-color: #92e3f5;
+            color:rgb(19, 30, 175);
+            font-weight: 800;
+            font-size: 25px;
+            text-align:center;}
