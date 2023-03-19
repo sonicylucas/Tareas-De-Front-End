@@ -1,0 +1,81 @@
+.logotipo {
+    background-color: #222222;
+    display:flex;
+    justify-content: space-between;
+}
+.Buscador {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    color:#F3F3F3;
+    text-decoration: none;
+}
+.ContenedorDelMain {
+    display:flex;
+    flex-direction: row;
+    margin: 35px, 20px;
+}
+.EnviosPizza, .Podio{
+    border-radius: 10px 10px 10px 10px;
+    height: 350px;
+    width: 490px;
+    padding: 20px;
+}
+#Imagenes {
+        position: absolute;
+}
+#TextoDeImagen {
+        position: relative;
+        left: 35px;
+        top: 5px;
+        color: #FC200C;
+        font-size: 28px;
+        line-height: 28.13px;
+        font-weight: 700;
+}
+#textoContenedorEnvio, #textoContenedorPodio{
+    color: rgba(252, 32, 12, 1);
+    font-size: x-large;
+    font-weight: 550;
+}
+main span {
+    color: #FFFFFF;
+}
+.ContenedorDePodio {
+    text-align: center;
+}
+#textoContenedorPodio{
+    margin: 50px 0;
+}
+.contenedorPodioPizzas{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.estiloListas{
+    margin: 40px;
+    font-weight: 550;
+    line-height: 30px;
+    text-align: start;
+}
+.ContenedorFooter {
+    background-color: #222222;
+    bottom: 1;
+    padding: 20px 8px;
+    position: absolute;
+    width: 100%;
+    height: 20%;
+}
+.ListaFooter {
+    font-weight: 550;
+    line-height: 30px;
+    text-align: start;
+    color:white
+}
+#ImagenFooter {
+    display: flex;
+    position: relative;
+    left:1000px;
+    bottom:125px;
+    margin-right: 20px;
+}
